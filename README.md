@@ -1,12 +1,14 @@
 # Olá, me chamo Rafael Oshikawa 👋
 
 ## Conheça meus projetos
-- Réplica do Prime Video: <a href = "https://oshikawa-donnie.vercel.app">Conheça pelo Vercel<img target="_blank"></a> 
+- Rafa Portfólio: <a href = "https://rafaportfolio.vercel.app">Conheça meu Site!<img target="_blank"></a>
+- Réplica do Prime Video: <a href = "https://oshikawa-donnie.vercel.app">Conheça o projeto!<img target="_blank"></a> 
 - Bikcraft:    <a href = ""><img target="_blank"></a>
 - Rafa Birthday:    <a href = ""><img target="_blank"></a>
+- Calculadora de Médias:    <a href = ""><img target="_blank"></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaoshikawa&color=lightgrey" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaoshikawa&color=green" alt="Profile views" /> </p>
 
 
 *🔥 Atualmente estou migrando para a área de Desenvolvimento Front End*

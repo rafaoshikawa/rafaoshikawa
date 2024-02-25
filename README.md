@@ -1,4 +1,4 @@
-# Olá, me chamo Rafael Oshikawa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="wave" style = "max-width: 40px" /> 
+# Olá, me chamo Rafael Oshikawa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="wave" height="40" />
 
 ## Conheça meus projetos
 - Rafa Portfólio: <a href = "https://rafaportfolio.vercel.app">Conheça  o meu Site!<img target="_blank noopener"></a>
